@@ -1,0 +1,64 @@
+{
+    "songs": [
+        {
+            "name": "Gửi đến em những ngày đó",
+            "singer": "Mirei Toyama",
+            "path": "./assets/music/chuc_den_em_nhung_ngay_do_mirei_toyama.mp3",
+            "image":"./assets/img/chuc_den_em_nhung_ngay_do_mirei_toyama.png"
+        },
+        {
+            "name": "Những lời hứa bỏ quên",
+            "singer": "Vũ",
+            "path": "./assets/music/loi_hua_bo_quen_vu.mp3",
+            "image":"./assets/img/loi_hua_bo_quen_vu.png"
+        },
+        {
+            "name": "Yêu thương ngày đó",
+            "singer": "Soobin Hoàng Sơn",
+            "path": "./assets/music/yeu_thuong_ngay_do_soobin.mp3",
+            "image":"./assets/img/yeu_thuong_ngay_do_soobin.png"
+        },
+        {
+            "name": "Lạc Trôi",
+            "singer": "Sơn Tùng - MTP",
+            "path": "./assets/music/lactroi_mtp.mp3",
+            "image":"./assets/img/lac_troi_mtp.png"
+        },
+        {
+            "name": "Nơi này có anh",
+            "singer": "Sơn Tùng - MTP",
+            "path": "./assets/music/noi_nay_co_anh_mtp.mp3",
+            "image":"./assets/img/noi_nay_co_anh_mtp.png"
+        },
+        {
+            "name": "Em quá ngốc",
+            "singer": "Chùy Na Lisa",
+            "path": "./assets/music/em_qua_ngoc_lisa.mp3",
+            "image":"./assets/img/em_qua_ngoc_lisa.jpg"
+        },
+        {
+            "name": "Em quá ngốc",
+            "singer": "Chùy Na Lisa",
+            "path": "./assets/music/em_qua_ngoc_lisa.mp3",
+            "image":"./assets/img/em_qua_ngoc_lisa.jpg"
+        },
+        {
+            "name": "Em quá ngốc",
+            "singer": "Chùy Na Lisa",
+            "path": "./assets/music/em_qua_ngoc_lisa.mp3",
+            "image":"./assets/img/em_qua_ngoc_lisa.jpg"
+        },
+        {
+            "name": "Em quá ngốc",
+            "singer": "Chùy Na Lisa",
+            "path": "./assets/music/em_qua_ngoc_lisa.mp3",
+            "image":"./assets/img/em_qua_ngoc_lisa.jpg"
+        },
+        {
+            "name": "Em quá ngốc",
+            "singer": "Chùy Na Lisa",
+            "path": "./assets/music/em_qua_ngoc_lisa.mp3",
+            "image":"./assets/img/em_qua_ngoc_lisa.jpg"
+        }
+    ]
+}
